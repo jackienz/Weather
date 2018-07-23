@@ -4,5 +4,5 @@ Demo: https://jackienz.github.io/weather
 
 API resource: https://openweathermap.org
 
-Front end:ReactJs,NodeJS,Bootstrap,ant Design
+Front end:ReactJs,NodeJS,Bootstrap and ant Design.
 
